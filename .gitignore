@@ -1,0 +1,10 @@
+/bin/
+/build/
+/shell
+/tree_bin
+*.o
+*.core
+core
+.vscode/
+.idea/
+*~
